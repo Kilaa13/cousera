@@ -8,19 +8,12 @@ In the current era of globalization, the prestige of traditional food is declini
 Team ID : CH2-PS141
 
 | ID Student | Name                          |Path                |
-| :---:      | :---:                         | :---:              |
 |M008BSX1527 | Vas Artiana                   | Machine Learning   |
-| :---:      |:---:                          | :---:              |
 |M487BSX1061 | Shakila Amalia Pratiwi        | Machine Learning   |
-| :---:      |:---:                          | :---:              |
 |M008BSY1797 | Raihan Rizki Dwiputra         | Machine Learning   |
-| :---:      |:---:                          | :---:              |
 |C183BSY3920 | Iqbal Risqi Saputra           | Cloud Computing    |
-| :---:      |:---:                          | :---:              |
 |C487BSY4251 | Kristianto                    | Cloud Computing    |
-| :---:      |:---:                          | :---:              |
 |A548BKY4499 | Muhammad Fathur Alim Ramadhan | Mobile Deveploment |
-| :---:      |:---:                          | :---:              |
 |A132BSY2478 | Revi Wardana Putra            | Mobile Deveploment |
 
 # Resource
@@ -32,35 +25,36 @@ machine-learning
 
 
 # Getting Started
-# Prerequisites
-Android
-Internet connection
-GPS/Location
+### Prerequisites
+- Android
+- Internet connection
+- GPS/Location
 
-# Installation
-Download the APK
-Install the APK
+### Installation
+- Download the APK
+- Install the APK
 
-# Register
-Open RASAKU application
-Register your email address
+### Register
+- Open RASAKU application
+- Register your email address
 
 
 # Usage
-# How to identify the food
+#### How to identify the food
 Login to your accounts
 Place the photo on a flat surface and make sure there is enough light around for good results
 Select the camera button to scan the traditional food you want to scan
 Slowly slide your phone's camera over the photo. Ensure that the photo is fully captured in the camera view and that there is sufficient light
 Take a screenshot and then wait for a few minutes before the results of the food being scanned are available and displayed
 
-# How to find the reciept and traditional foods
+#### How to find the reciept and traditional foods
 Login to your accounts
 Click search bar in button search
 Type the food you want to search for
 Select the food you searched for earlier from the search engine results
 
-# How to find the nearest location store
+### How to find the nearest location store
+Login to your accounts
 
 
 # Product
@@ -68,18 +62,18 @@ RASAKU Apps
 Web Service
 
 # Technology Used
-# Machine Learning
+### Machine Learning
 Tensorflow
 Tensorflow Lite
 Python
 Google Images API 
 
-# Android Development
+### Android Development
 Kotlin
 Firebase
 CameraX
 
-# Cloud Computing
+### Cloud Computing
 Flask
 Google Compute Engine
 Google App Engine
